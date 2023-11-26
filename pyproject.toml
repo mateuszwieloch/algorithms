@@ -1,0 +1,9 @@
+[project]
+name = "algorithms"
+version = "v0.1"
+description = "My implementations of the most common algorithms"
+authors = [
+    { name = "Mateusz Wieloch" },
+]
+requires-python = ">=3.12"
+
